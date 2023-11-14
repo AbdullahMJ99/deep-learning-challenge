@@ -1,10 +1,10 @@
-#Model Report
+Model Report
 
-# Purpose:
+Purpose:
 Predict the accuracy in classifcation to find whether applicants will be successful if funded by Alphabet Soup.
 
 
-# Data Preprocessing
+Data Preprocessing
 
 What variable(s) are the target(s) for your model?
  'IS_SUCCESSFUL' column
@@ -13,7 +13,7 @@ all the other columns
 What variable(s) should be removed from the input data because they are neither targets nor features?
 EIN and Name columns
 
-# Compiling, Training, and Evaluating the Model
+Compiling, Training, and Evaluating the Model
 
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
 8 layers
@@ -23,5 +23,5 @@ What steps did you take in your attempts to increase model performance?
 adding more layers and removing columns
 
 
-# Summarize and recommendation:
+Summarize and recommendation:
 Overall, the deep learning model was around 70% accurate in predicting the problem. Using a model with greater correlation between input and output would likely result in higher prediction accuracy. Data clean up would be reccomended.
