@@ -3,7 +3,7 @@ Purpose:
 Predict the accuracy in classifcation to find whether applicants will be successful if funded by Alphabet Soup.
 
 
-** Data Preprocessing
+Data Preprocessing
 
 What variable(s) are the target(s) for your model?
  'IS_SUCCESSFUL' column
